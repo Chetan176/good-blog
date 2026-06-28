@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ModernBlog | Insights for Developers</title>
+    <meta name="description" content="A clean, modern blog for developers and designers.">
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- Open Graph -->
+    <meta property="og:title" content="ModernBlog">
+    <meta property="og:description" content="Insights for Developers">
+    <meta property="og:image" content="assets/img/og-home.jpg">
+</head>
+<body>
+    <header>
+        <div class="container nav">
+            <a href="index.html" style="font-weight: 800; font-size: 1.5rem; text-decoration: none; color: var(--text-color);">MODERNBLOG</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <button id="theme-toggle" class="btn-toggle">🌙 Mode</button>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Stay Informed. Stay Ahead.</h1>
+            <p>Exploring the latest in Tech, Design, and Lifestyle.</p>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search articles...">
+            </div>
+        </div>
+    </section>
+
+    <!-- AdSense Placeholder -->
+    <div class="container">
+        <div class="ad-slot">
+            <!-- ADSENSE CODE HERE: Homepage Top -->
+            <p>ADVERTISEMENT</p>
+        </div>
+    </div>
+
+    <main class="container">
+        <h2 id="section-title">Featured Articles</h2>
+        <div class="article-grid" id="featured-grid">
+            <!-- JS will populate featured articles here -->
+        </div>
+
+        <!-- AdSense Placeholder -->
+        <div class="ad-slot">
+            <!-- ADSENSE CODE HERE: Mid-Feed -->
+            <p>ADVERTISEMENT</p>
+        </div>
+
+        <h2>Latest Articles</h2>
+        <div class="article-grid" id="latest-grid">
+            <!-- JS will populate all articles here -->
+        </div>
+    </main>
+
+    <footer>
+        <div class="container footer-grid">
+            <div>
+                <h3>ModernBlog</h3>
+                <p>High-quality content for the modern era.</p>
+            </div>
+            <div>
+                <h4>Links</h4>
+                <ul>
+                    <li><a href="about.html" style="color: white">About</a></li>
+                    <li><a href="privacy.html" style="color: white">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Newsletter</h4>
+                <form id="newsletter-form">
+                    <input type="email" placeholder="your@email.com" required style="padding: 10px; width: 100%; border-radius: 4px;">
+                    <button type="submit" style="margin-top: 10px; width: 100%; padding: 10px; background: var(--accent-color); color: white; border: none; border-radius: 4px;">Subscribe</button>
+                </form>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/blog.js"></script>
+</body>
+</html>

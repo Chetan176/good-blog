@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "slug": "getting-started-with-web-dev",
+    "title": "Getting Started with Modern Web Development",
+    "date": "2023-10-01",
+    "category": "Technology",
+    "author": "Jane Doe",
+    "readTime": "5 min",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+    "summary": "Learn the core fundamentals of modern web development in this comprehensive guide.",
+    "content": "<h2>The Journey Begins</h2><p>Web development is an ever-evolving field. To start, you need to master HTML, CSS, and JavaScript.</p><h3>Why Vanilla JS?</h3><p>Frameworks come and go, but the fundamentals remain the same...</p>",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "mastering-css-grid",
+    "title": "Mastering CSS Grid Layouts",
+    "date": "2023-10-05",
+    "category": "Design",
+    "author": "John Smith",
+    "readTime": "8 min",
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=800",
+    "summary": "Grid layout is the most powerful layout system available in CSS. Learn how to use it.",
+    "content": "<p>CSS Grid offers a two-dimensional layout system...</p>",
+    "featured": true
+  },
+  { "id": "3", "slug": "js-performance-tips", "title": "JavaScript Performance Tips", "date": "2023-10-10", "category": "Technology", "author": "Dev Guru", "readTime": "6 min", "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800", "summary": "How to make your scripts run faster.", "content": "<p>Optimization is key...</p>", "featured": false },
+  { "id": "4", "slug": "minimalist-lifestyle", "title": "Living a Minimalist Lifestyle", "date": "2023-10-12", "category": "Lifestyle", "author": "Sara Lee", "readTime": "4 min", "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=800", "summary": "Simplify your life to find more freedom.", "content": "<p>Less is more...</p>", "featured": false },
+  { "id": "5", "slug": "healthy-coding-habits", "title": "Healthy Coding Habits", "date": "2023-10-15", "category": "Wellness", "author": "Dr. Dev", "readTime": "7 min", "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800", "summary": "Posture and breaks matter as much as code.", "content": "<p>Stand up every hour...</p>", "featured": false },
+  { "id": "6", "slug": "remote-work-guide", "title": "The Ultimate Remote Work Guide", "date": "2023-10-18", "category": "Business", "author": "Alex Reed", "readTime": "10 min", "image": "https://images.unsplash.com/photo-1587560699334-cc4ff634909a?w=800", "summary": "Setting up your home office for success.", "content": "<p>Communication is the bridge...</p>", "featured": false },
+  { "id": "7", "slug": "future-of-ai", "title": "The Future of AI in 2024", "date": "2023-10-20", "category": "Technology", "author": "AI Expert", "readTime": "12 min", "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800", "summary": "What to expect from generative AI next year.", "content": "<p>AI is not replacing humans, humans using AI are...</p>", "featured": false },
+  { "id": "8", "slug": "travel-on-a-budget", "title": "Travel on a Budget", "date": "2023-10-22", "category": "Lifestyle", "author": "Wanderlust", "readTime": "5 min", "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800", "summary": "See the world without breaking the bank.", "content": "<p>Hostels and street food are your friends...</p>", "featured": false },
+  { "id": "9", "slug": "seo-for-beginners", "title": "SEO for Beginners", "date": "2023-10-25", "category": "Business", "author": "Marketer", "readTime": "9 min", "image": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?w=800", "summary": "Get your website to the top of Google.", "content": "<p>Keywords, Backlinks, and Content...</p>", "featured": false },
+  { "id": "10", "slug": "ui-ux-principles", "title": "Core UI/UX Principles", "date": "2023-10-28", "category": "Design", "author": "Pixel Perfect", "readTime": "6 min", "image": "https://images.unsplash.com/photo-1586717791821-3f44a563eb4c?w=800", "summary": "Designing for the user experience first.", "content": "<p>Accessibility is not an afterthought...</p>", "featured": false }
+]
